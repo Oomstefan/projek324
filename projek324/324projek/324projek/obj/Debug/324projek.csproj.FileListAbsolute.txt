@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\bin\Debug\324projek.exe.config
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\bin\Debug\324projek.exe
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\bin\Debug\324projek.pdb
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\obj\Debug\324projek.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\obj\Debug\_324projek.Form1.resources
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\obj\Debug\_324projek.Properties.Resources.resources
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\obj\Debug\324projek.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\obj\Debug\324projek.exe
+C:\Users\Stefan\Desktop\projek324\324projek\324projek\obj\Debug\324projek.pdb
