@@ -81,6 +81,7 @@
             this.btnJean.TabIndex = 4;
             this.btnJean.Text = "Jean";
             this.btnJean.UseVisualStyleBackColor = true;
+            this.btnJean.Click += new System.EventHandler(this.btnJean_Click);
             // 
             // btnTiaan
             // 

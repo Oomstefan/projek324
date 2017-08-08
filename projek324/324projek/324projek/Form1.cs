@@ -16,5 +16,11 @@ namespace _324projek
         {
             InitializeComponent();
         }
+
+        private void btnJean_Click(object sender, EventArgs e)
+        {
+            Jean jean = new Jean();
+            jean.Show();
+        }
     }
 }
